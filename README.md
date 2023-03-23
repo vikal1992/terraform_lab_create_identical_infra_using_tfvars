@@ -1,0 +1,2 @@
+# terraform_lab_create_identical_infra_using_tfvars
+Create identical infra using tfvars
